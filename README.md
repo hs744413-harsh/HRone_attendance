@@ -38,7 +38,3 @@ uvicorn app.main:app --port 8000
 - Interactive API docs: `http://127.0.0.1:8000/docs`
 
 The application creates its MongoDB indexes at startup. No manual index creation should be required.
-
-## Before submission
-
-Verify the normal endpoint responses and status codes, concurrency cases, analytics edge cases, and the explain output for all five supported endpoint names. Check that explain results contain execution statistics and that the winning query plans use indexes on the target dataset. Do not commit virtual environments, credentials, `.env`, or database dumps.
