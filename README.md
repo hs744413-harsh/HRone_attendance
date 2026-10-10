@@ -38,3 +38,45 @@ uvicorn app.main:app --port 8000
 - Interactive API docs: `http://127.0.0.1:8000/docs`
 
 The application creates its MongoDB indexes at startup. No manual index creation should be required.
+
+
+# 👨‍💻 Author
+
+### Harsh Panwar
+
+B.Tech CS
+
+KIET Group of Institutions
+
+GitHub
+
+https://github.com/hs744413-harsh
+
+LinkedIn
+
+(https://www.linkedin.com/in/harsh-panwar-89050a348/)
+
+---
+
+# ⭐ Support
+
+If you found this project useful,
+
+⭐ Star this repository.
+
+Fork it.
+
+Contribute.
+
+Share it with others.
+
+---
+
+<div align="center">
+
+## 🚀 Happy Coding 🚀
+
+Made with ❤️ using FastAPI • MongoDB 
+
+</div>
+
